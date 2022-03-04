@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Bugg-Bitter/Bugg-Bitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there It's Shahrier Evan !!!👋
 
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning BackEnd With PHP && Laravel
