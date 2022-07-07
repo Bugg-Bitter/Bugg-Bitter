@@ -2,7 +2,8 @@
 ![image](https://drive.google.com/file/d/1ezxmHWCgx7PL1NqzbGcP73zY9rJTbrfx/view?usp=sharing)
 </h3> -->
 
-[![160744959694494596](https://drive.google.com/file/d/1ezxmHWCgx7PL1NqzbGcP73zY9rJTbrfx/view?usp=sharing)](https://github.com/Bugg-Bitter?tab=repositories)
+![evan](https://user-images.githubusercontent.com/91305837/177842929-aab5bd52-29bb-4182-87bd-8862c77a83fb.png)
+(https://github.com/Bugg-Bitter?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
