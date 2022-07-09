@@ -15,7 +15,7 @@
 
 ---
 
-I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Airbyte](https://airbyte.com/). I previously worked in DevRel/DX at Netlify, AWS, and Temporal.io.
+I'm Atef Shahrier Evan and Head of Developer Experience at [Airbyte](https://airbyte.com/). I previously worked in DevRel/DX at Netlify, AWS, and Temporal.io.
 
 In my personal capacity, do a lot of [writing and speaking](https://www.swyx.io/ideas/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
 
