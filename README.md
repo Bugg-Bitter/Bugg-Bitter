@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://sites.google.com/view/retr02/home">Google Site</a> •
   <a href="https://www.facebook.com/profile.php?id=100028291062142">FaCeBoOk</a> •
-  <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
+  <<a href="https://stackoverflow.com/users/17752861/atef-shahrier-evan">My StackOverFLow</a> •
 </p>
 
 ---
