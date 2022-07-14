@@ -14,7 +14,7 @@
 
 I'm Atef Shahrier Evan and Curious Everytime at [Android Development](https://developer.android.com/). I previously worked in Junior App developer at PositiveIt World 
 
-In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses), learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) and i also learn & make [config] for crack or bypass any websites security Also interesting about me is I'm a good listener !! 
+In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses) about android Android Development and Learn about new [Technologies](https://www.youtube.com/c/AndroidDevelopers/playlists) regularly , learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) has a great interest in google dorking and i also learn & make [config] for crack or bypass any websites security Also interesting about me is I'm a good listener !! 
 
 I also self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
 
