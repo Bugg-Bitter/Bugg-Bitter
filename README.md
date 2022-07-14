@@ -5,7 +5,6 @@
 [![evan](https://user-images.githubusercontent.com/91305837/177845292-4951faef-e804-492f-8de5-092f123e6391.png)](https://github.com/Bugg-Bitter?tab=repositories)
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
   <a href="https://sites.google.com/view/retr02/home">Google Site</a> •
   <a href="https://www.facebook.com/profile.php?id=100028291062142">FaCeBoOk</a> •
