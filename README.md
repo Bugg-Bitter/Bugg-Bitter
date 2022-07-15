@@ -16,7 +16,7 @@ I'm Atef Shahrier Evan and Curious Everytime at [Android Development](https://de
 
 In my personal capacity, do a lot of [writting and learning](https://developer.android.com/courses) about android Android Development and Learn about new [Technologies](https://www.youtube.com/c/AndroidDevelopers/playlists) regularly , learn about [Google Dorking](https://www.exploit-db.com/google-hacking-database) has a great interest in google dorking and i also learn & make [config] for crack or bypass any websites security Also interesting about me is I'm a good listener !! 
 
-I also self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
+I also self-published <a href="https://play.google.com/store/apps/details?id=net.startbit.diucgpa">The CGPA Viewer for daffodilians</a> to condense all the tacit result need to know as a student of Daffodil University. <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail me</a> For any issues !!
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
