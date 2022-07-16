@@ -18,14 +18,14 @@ In my personal capacity, do a lot of [writting and learning](https://developer.a
 
 I also self-published <a href="https://play.google.com/store/apps/details?id=net.startbit.diucgpa">The CGPA Viewer for daffodilians</a> to condense all the tacit result need to know as a student of Daffodil University. <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail me</a> For any issues !!
 
-<a href="https://play.google.com/store/apps/details?id=com.bandainamcoent.ninjavoltage_app&hl=en&gl=RU">
+<a href="[https://play-lh.googleusercontent.com/nCVVCbeSI14qEvNnvvgkkbvfBJximn04qoPRw8GZjC7zeoKxOgEtjqsID_DDtNfkjyo]">
   <img align="right" src="[https://play-lh.googleusercontent.com/nCVVCbeSI14qEvNnvvgkkbvfBJximn04qoPRw8GZjC7zeoKxOgEtjqsID_DDtNfkjyo]" width=200 />
 </a>
 
 - See my [full about page here](https://sites.google.com/view/retr02/home) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
-- 📫 How to reach me: `swyx at hey dot com`
+- 📫 How to reach me: `swyx at hey dot com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
 
