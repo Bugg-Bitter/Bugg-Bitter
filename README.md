@@ -18,7 +18,7 @@ In my personal capacity, do a lot of [writting and learning](https://developer.a
 
 I also self-published <a href="https://play.google.com/store/apps/details?id=net.startbit.diucgpa">The CGPA Viewer for daffodilians</a> to condense all the tacit result need to know as a student of Daffodil University. <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail me</a> For any issues !!
 
-<a href="[https://play-lh.googleusercontent.com/nCVVCbeSI14qEvNnvvgkkbvfBJximn04qoPRw8GZjC7zeoKxOgEtjqsID_DDtNfkjyo]">
+<a href="https://play.google.com/store/apps/details?id=com.bandainamcoent.ninjavoltage_app&hl=en&gl=RU">
   <img align="right" src="[https://play-lh.googleusercontent.com/nCVVCbeSI14qEvNnvvgkkbvfBJximn04qoPRw8GZjC7zeoKxOgEtjqsID_DDtNfkjyo]" width=200 />
 </a>
 
