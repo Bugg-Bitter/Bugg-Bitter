@@ -22,7 +22,7 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
+- See my [full about page here](https://sites.google.com/view/retr02/home) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
 - 📫 How to reach me: `swyx at hey dot com`
