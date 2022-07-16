@@ -18,8 +18,12 @@ In my personal capacity, do a lot of [writting and learning](https://developer.a
 
 I also self-published <a href="https://play.google.com/store/apps/details?id=net.startbit.diucgpa">The CGPA Viewer for daffodilians</a> to condense all the tacit result need to know as a student of Daffodil University. <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail me</a> For any issues !!
 
-<a href="https://user-images.githubusercontent.com/91305837/179371817-c58872a0-e523-45c3-bf2d-536a687dd192.png">
+<!-- <a href="https://user-images.githubusercontent.com/91305837/179371817-c58872a0-e523-45c3-bf2d-536a687dd192.png">
   <img align="right" src="[![image](https://user-images.githubusercontent.com/91305837/179371817-c58872a0-e523-45c3-bf2d-536a687dd192.png)]" width=200 />
+</a> -->
+
+<a href="https://user-images.githubusercontent.com/91305837/179371817-c58872a0-e523-45c3-bf2d-536a687dd192.png">
+  <img align="right" src="https://play-lh.googleusercontent.com/nCVVCbeSI14qEvNnvvgkkbvfBJximn04qoPRw8GZjC7zeoKxOgEtjqsID_DDtNfkjyo![image](https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png)" width=200 />
 </a>
 
 - See my [full about page here](https://sites.google.com/view/retr02/home) as well as [featured writing](https://www.swyx.io/#featured-writing).
