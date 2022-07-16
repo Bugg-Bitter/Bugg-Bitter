@@ -23,7 +23,7 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
 </a> -->
 
 <a href="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png">
-  <img align="right" src="[https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png![image](https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png)]" width=200 />
+  <img align="right" src="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png" width=200 />
 </a>
 
 - See my [full about page here](https://sites.google.com/view/retr02/home) as well as [featured writing](https://www.swyx.io/#featured-writing).
