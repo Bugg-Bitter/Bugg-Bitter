@@ -27,8 +27,8 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
 </a>
 
 - See my [full about page here](https://sites.google.com/view/retr02/home) , it's really good to see you here buddy :D .
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
+- 👯 I am on the [Cross Platform Learning](https://flutter.dev/) And also [Native Platform Learning](https://developer.android.com/).
+- 💬 Ask me about P R O G R A M I N G or Let's W O R K together !!
 - 📫 How to reach me: [P I N G   M E](https://www.facebook.com/profile.php?id=100028291062142)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I Finish what i start !!
