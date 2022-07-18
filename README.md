@@ -26,12 +26,12 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
   <img align="right" src="https://user-images.githubusercontent.com/91305837/179372040-b62bcd08-8a67-4bc3-827c-e358857ef939.png" width=200 />
 </a>
 
-- See my [full about page here](https://sites.google.com/view/retr02/home) as well as [featured writing](https://www.swyx.io/#featured-writing).
+- See my [full about page here](https://sites.google.com/view/retr02/home) , it's really good to see you here buddy :D .
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
 - 📫 How to reach me: `swyx at hey dot com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
+- ⚡ Fun fact: What i Start seriously, I stop untill i complete it ! 
 
 
 <!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
