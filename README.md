@@ -31,7 +31,7 @@ I also self-published <a href="https://play.google.com/store/apps/details?id=net
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
 - 📫 How to reach me: `swyx at hey dot com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: What i Start seriously, I stop untill i complete it ! 
+- ⚡ Fun fact: I Finish what i start !!
 
 
 <!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
